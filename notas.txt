@@ -1,0 +1,14 @@
+/* Commans para Crear un proyecto Nest */
+ npm i @nestjs/cli -g
+
+  nest new nestfirtapp
+
+ /* Comand para levantar el proyecto*/
+
+$ npm run start:dev
+
+/*Para visualizar todos los comandos*/
+
+nest
+
+//
